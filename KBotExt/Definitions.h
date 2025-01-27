@@ -15,7 +15,6 @@ struct ChampMinimal
 	bool freeToPlay;
 	int id;
 	std::string name;
-
 	//ownership
 	bool freeToPlayReward;
 	int owned;
